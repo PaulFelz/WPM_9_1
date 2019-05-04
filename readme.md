@@ -10,17 +10,36 @@ Die Stadtbibliothek Gelsenkirchen bezieht Daten über bestimmte Schnittstellen v
 aufzubereiten. Des Weiteren nutzt die Stadtbibliothek die digitale Infrastruktur der Stadt, um Informationen zwischen dem Bibliothekspersonal auszutauschen. Diese Datenhaltungen und Datenflüsse sollen im folgenden 
 beschrieben werden, um im Anschluss ein Beispiel herauszustellen, das zur Verbesserung noch genauer beleuchtet wird. 
 
-## 1. Datenströme und vorhaltungen in der Stadtbibliothek Gelsenkirchen
+## 1. Datenströme und -vorhaltungen in der Stadtbibliothek Gelsenkirchen
 
-Die Stadtbibliothek Gelsenkirchen bezieht von der DNB, dem hbz, der DiviBib und der ekz bestimmte Daten, um diese für eigene Zwecke weiterzuverwenden. 
+Die Stadtbibliothek Gelsenkirchen bezieht von der DNB, dem hbz, der DiviBib und der ekz bestimmte Daten, um diese für eigene Zwecke weiterzuverwenden. Des Weiteren werden über einige Netzlaufwerke Daten zwischen dem 
+Bibliothekspersonal, über andere aber auch zwischen Bibliotheksnutzern ausgetauscht. Das Content Management System (CMS) Sharepoint dient als so genanntes Wiki, wodurch ebenfalls Informationen bereitgestellt und 
+zur Recherche direkt vom Personal hinterlegt werden können. 
 
-  ### 1.1 Import von Metadaten aus der DNB und dem hbz in den Fremddatenkatalog der Stadtbibliothek Gelsenkirchen
+  ### 1.1 Import von Metadaten aus der DNB und dem hbz in den Fremddatenkatalog und den OPAC der Stadtbibliothek Gelsenkirchen
+
+DNB Datenshop - Titeldaten/Metadaten
+ekz Catalogue Enrichment  - Annotationen etc.
+
+hbz Catalogue Enrichment
+Amazon - Bilder 
+
   ### 1.2 Import von Fremddaten der DiViBib der ekz in den Katalog der Stadtbibliothek Gelsenkirchen 
+
+ekz - Titeldaten/Metadaten/Catalogue Enrichment für eBib 
+
   ### 1.3 Datenaustausch über Netzlaufwerke innerhalb der internen Abteilungen der Stadtbibliothek und dem Computerraum
+
+Netzlaufwerk des Referats 40 Bildung; 5 Partitionen für die Abteilungen IT/Verwaltung/Schulwesen/Stadtbibliothek/VHS
+
   ### 1.4 Bereitstellung von Informationen über das CMS Sharepoint zu internen Zwecken
  
+CMS dienst als Wiki
+
 
 ## 2. Implementierung eines Backupprogramms für den Netzwerkordner des Computerraums
+
+Chancen, Nutzen, Herausforderungen, Ablauf, Routinebetrieb
 
 
 ## Reflexion
