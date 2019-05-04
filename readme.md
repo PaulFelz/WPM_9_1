@@ -2,6 +2,7 @@
 
 ## Einleitung
 
+In dieser Arbeit wird 
 
 ## 1. Datenströme und vorhaltungen in der Stadtbibliothek Gelsenkirchen
 
