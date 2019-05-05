@@ -14,11 +14,15 @@ beschrieben werden, um im Anschluss ein Beispiel herauszustellen, das zur Verbes
 
 Die Stadtbibliothek Gelsenkirchen bezieht von der DNB, dem hbz, der DiviBib und der ekz bestimmte Daten, um diese für eigene Zwecke weiterzuverwenden. Des Weiteren werden über einige Netzlaufwerke Daten zwischen dem 
 Bibliothekspersonal, über andere aber auch zwischen Bibliotheksnutzern ausgetauscht. Das Content Management System (CMS) Sharepoint dient als so genanntes Wiki, wodurch ebenfalls Informationen bereitgestellt und 
-zur Recherche direkt vom Personal hinterlegt werden können. 
+zur Recherche direkt vom Personal hinterlegt werden können. Die Stadtbibliothek Gelsenkirchen sammelt, katalogisiert und verwaltet ihren Bestand mit dem 
+Bibliothekssystem BIBDIA <ein-link xlink:type="simple" xlink:href="http://www.nimmermehr.de/w.html#w12">wow</ein-link> 
 
-  ### 1.1 Import von Metadaten aus der DNB und dem hbz in den Fremddatenkatalog und den OPAC der Stadtbibliothek Gelsenkirchen
+  ### 1.1 Import von Metadaten aus der Deutschen Nationalbibliothek und dem Hochschulbibliothekszentrum NRW in den Fremddatenkatalog und den OPAC der Stadtbibliothek Gelsenkirchen
 
-DNB Datenshop - Titeldaten/Metadaten
+Um die Katalogisierung des Bestands der Stadtbibliothek effizient zu gestalten, werden die Titel- und Normdaten aus der Deutschen Nationalbibliothek (DNB) 
+heruntergeladen. Anstatt sämtliche Normdaten aus dem vorliegenden Medium zu autopsieren, wird der Datenshop der DNB genutzt um die Metadaten direkt ins 
+Bibliothekssystem zu laden.    
+Normdaten DNB Datenshop - Titeldaten/Metadaten
 ekz Catalogue Enrichment  - Annotationen etc.
 
 hbz Catalogue Enrichment
