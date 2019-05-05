@@ -17,7 +17,7 @@ Bibliothekspersonal, über andere aber auch zwischen Bibliotheksnutzern ausgetau
 zur Recherche direkt vom Personal hinterlegt werden können. Die Stadtbibliothek Gelsenkirchen sammelt, katalogisiert und verwaltet ihren Bestand mit dem 
 Bibliothekssystem [BIBDIA](https://www.axiell.de/bibdia/) von der Firma AXIELL. 
 
-  ### 1.1 Import von Metadaten aus der Deutschen Nationalbibliothek und dem Hochschulbibliothekszentrum NRW in den Fremddatenkatalog und den OPAC der Stadtbibliothek Gelsenkirchen
+  ### 1.1 Import von Metadaten aus der Deutschen Nationalbibliothek und dem Hochschulbibliothekszentrum NRW in den OPAC der Stadtbibliothek Gelsenkirchen
 
 Um die Katalogisierung der neu eingegangenen Medien der Stadtbibliothek effizient zu gestalten, werden die Titel- und Normdaten aus der Deutschen Nationalbibliothek (DNB) 
 heruntergeladen. Anstatt sämtliche Normdaten aus dem vorliegenden Medium zu autopsieren, wird der [Datenshop](https://www.dnb.de/DE/Header/Hilfe/datenshop.html) der DNB genutzt um die Metadaten direkt ins 
@@ -45,13 +45,20 @@ lizenzierten Titel der Stadtbibliothek Gelsenkirchen. Dort finden sich dann auch
   ### 1.3 Datenaustausch über Netzlaufwerke innerhalb der internen Abteilungen der Stadtbibliothek und dem Computerraum
 
 Um Daten innerhalb der Abteilungen der Stadtbibliothek auszutauschen gibt es einen Netzwerkordner. Dieser Netzwerkordner hat eine Speicherkapazität von ca. 1,5TB und muss sämtliche Dokumente, Bilder, 
-Filmmaterialien, Logos etc. vorhalten. Die Stadtbibliothek bietet so an jedem ihren Arbeitsplätzen denselben Netzwerkspeicher an. In Kombination mit dem  netzlaufwerk des Referats 40 Bildung; 5 Partitionen für die 
-Abteilungen 
-IT/Verwaltung/Schulwesen/Stadtbibliothek/VHS
+Filmmaterialien, Logos etc. vorhalten. Die Stadtbibliothek bietet so an jedem ihrer Arbeitsplätze denselben Zugriff auf die vorgehaltenen Daten an. Im Netzwerkordner können sämtliche Daten vom gesamten Personal 
+der Stadtbibliothek eingesehen und verändert werden. Ein [RAID](https://www.elektronik-kompendium.de/sites/com/1001011.htm) unterstützt die Datensicherheit und kann bei einem kritischen Ausfall der Hardware einen 
+Verlust verhindern. Das Netzlaufwerk steht für das gesamte Referat 40 Bildung zur Verfügung. Jedoch sind die jeweiligen Partitionen für die Abteilungen Schul-IT, Schulverwaltung, Schulwesen, Stadtbibliothek und 
+Volkshochschule nur von den Abteilungen einzusehen. Ein Mitarbeiter der Stadtbibliothek hat bspw. keinen Zugriff auf die anderen vier Partitionen des Netzlaufwerks.
+Des Weiteren gibt es ein Netzlaufwerk für den Computerraum namens [log in](https://stadtbibliothek.gelsenkirchen.de/Homepage/Bibliotheken/Medienzentrum/login.asp). Hier kommt das so genannte [Sneaker 
+Net](https://www.bet.de/lexikon/sneakernet/) zum Einsatz. Eine externe Festplatte wird wöchentlich an den Server des log ins angeschlossen und sämtliche Daten aus dem Netzlaufwerk werden darauf gesichert. Dies ist 
+aufgrund der eingeschränkten Funktionen des Windows Explorers mühselig und die Problemstellung soll im zweiten Punkt genauer behandelt werden.
 
-  ### 1.4 Bereitstellung von Informationen über das CMS Sharepoint zu internen Zwecken
+  ### 1.4 Bereitstellung von Informationen über das Content Management System Sharepoint zu internen Zwecken
  
-CMS dienst als Wiki
+Das [Content Management System](https://wirtschaftslexikon.gabler.de/definition/content-management-system-cms-31303) CMS [Sharepoint](https://products.office.com/de-de/sharepoint/collaboration) dient als 
+[Enterprise Wiki](https://it-service.network/blog/2017/07/20/enterprise-wiki-chancen-und-risiken/). Hier wird bibliotheksinternes Wissen vorgehalten, gepflegt und aktualisiert. In Wikipedia Form kann das Personal 
+spezielles Wissen für die Allgemeinheit innerhalb der Stadtbibliothek aufbereiten. Von Anleitungen zu Mahnfällen bis zum Umgang mit dem 3D-Drucker ist hier Spezialwissen des Bibliothekspersonals vorgehalten und 
+durchsuchbar gemacht.  
 
 
 ## 2. Implementierung eines Backupprogramms für den Netzwerkordner des Computerraums
