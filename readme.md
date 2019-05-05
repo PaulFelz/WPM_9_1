@@ -15,7 +15,7 @@ beschrieben werden, um im Anschluss ein Beispiel herauszustellen, das zur Verbes
 Die Stadtbibliothek Gelsenkirchen bezieht von der DNB, dem hbz, der DiviBib und der ekz bestimmte Daten, um diese für eigene Zwecke weiterzuverwenden. Des Weiteren werden über einige Netzlaufwerke Daten zwischen dem 
 Bibliothekspersonal, über andere aber auch zwischen Bibliotheksnutzern ausgetauscht. Das Content Management System (CMS) Sharepoint dient als so genanntes Wiki, wodurch ebenfalls Informationen bereitgestellt und 
 zur Recherche direkt vom Personal hinterlegt werden können. Die Stadtbibliothek Gelsenkirchen sammelt, katalogisiert und verwaltet ihren Bestand mit dem 
-Bibliothekssystem <A HREF="https://www.axiell.de/bibdia/>BIBDIA</A> 
+Bibliothekssystem [BIBDIA](https://www.axiell.de/bibdia/) 
 
   ### 1.1 Import von Metadaten aus der Deutschen Nationalbibliothek und dem Hochschulbibliothekszentrum NRW in den Fremddatenkatalog und den OPAC der Stadtbibliothek Gelsenkirchen
 
