@@ -7,7 +7,7 @@ Die Stadtbibliothek Gelsenkirchen bezieht Daten über bestimmte Schnittstellen v
 
 ## 1. Datenströme und -vorhaltungen in der Stadtbibliothek Gelsenkirchen
 
-Die Stadtbibliothek Gelsenkirchen bezieht aus externen Quellen bestimmte Metdadaten, um diese im eigenen Katalog weiterzuverwenden. Außerdem werden über Netzlaufwerke Daten zwischen dem Bibliothekspersonal, aber auch zwischen BibliotheksnutzerInnen ausgetauscht. Das Content Management System (CMS) Sharepoint wird als so genanntes Wiki verwendet, damit Informationen bereitgestellt und vom Personal direkt zur Recherche hinterlegt werden können. Die Stadtbibliothek Gelsenkirchen sammelt, katalogisiert und verwaltet ihren Bestand mit dem Bibliothekssystem [BIBDIA](https://www.axiell.de/bibdia/) von der [Firma AXIELL](https://www.axiell.de/). 
+Die Stadtbibliothek Gelsenkirchen bezieht aus externen Quellen bestimmte Metdadaten, um diese im eigenen Katalog weiterzuverwenden. Außerdem werden über Netzlaufwerke Daten zwischen dem Bibliothekspersonal, aber auch zwischen Bibliotheksnutzer*innen ausgetauscht. Das Content Management System (CMS) Sharepoint wird als so genanntes Wiki verwendet, damit Informationen bereitgestellt und vom Personal direkt zur Recherche hinterlegt werden können. Die Stadtbibliothek Gelsenkirchen sammelt, katalogisiert und verwaltet ihren Bestand mit dem Bibliothekssystem [BIBDIA](https://www.axiell.de/bibdia/) von der [Firma AXIELL](https://www.axiell.de/). 
 
   ### 1.1 Import von Metadaten aus externen Quellen in den OPAC 
 
