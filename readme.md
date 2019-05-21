@@ -46,8 +46,13 @@ Das Backup-Programm soll direkt beim Start von Ubuntu ausgeführt werden. Zurzei
 ------
 
 (1) E-Mail-Korrespondenz hat Sperrvermerk – wird auf Anfrage gern zugesendet
+
 (2) Jahn, Brigitte [2013]: Amazon und die Kataloganreicherung in deutschen Bibliotheken. Website: Kritische Bibliothek. URL: https://www.kribiblio.de/?p=681 (zuletzt eingesehen am 21.05.2019)
+
 (3) Berufsverband Information Bibliothek e. V. (Hrsg) [2018]: Diskussion um Weiterleitung zum Angebot von Amazon. Website: Berufsverband Information Bibliothek e. V. URL: https://www.bib-info.de/verband/publikationen/aktuell.html?tx_ttnews%5Btt_news%5D=4524&cHash=d764971a32 (zuletzt eingesehen am 21.05.2019)
+
 (4) divibib GmbH (Hrsg.) [2019]: Die divibib - Onleihe und mehr. Website: Onleihe. URL: http://www.onleihe.net/unternehmen.html (zuletzte eingesehen am 21.05.2019)
+
 (5) divibib GmbH (Hrsg.) [2019]: Die ekz-Gruppe. Website: Onleihe. URL: http://www.onleihe.net/unternehmen/die-ekz-gruppe.html (zuletzt eingesehen am 21.05.2019)
+
 (6) Begerow, Markus (Hrsg.) [2019]: Overclocking. Website: Informatik verstehen für Schüler und Studenten. URL: https://www.informatik-verstehen.de/lexikon/overclocking/ (zuletzt eingesehen am 21.05.2019)
